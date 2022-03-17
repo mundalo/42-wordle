@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>WordleRush</title>
+		<link rel="stylesheet" href="style.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div class="game-container">
+			<div class="title-container"> 
+				<h1>Wordle Rush</h1>
+				<ul class="navigation-bar">
+					<li><a href="index.html">WORDLE game</a></li>
+					<li><a href="javascript:location.reload(true)">Restart</a></li>
+					<li><a href="solver.html">Solver</a></li>
+				</ul>
+			</div>	
+			<div class="message-container"></div>
+			<div class ="central-view">
+				<div class="assistant-container">
+					<div class="menu-buttons-container">
+						<button class="assistant-button" onclick="toggleAssistant()">Assistant</button>
+					
+					</div>
+					<div class="assistant-list"></div>
+				</div>
+				<div class="map-container"></div>
+			</div>
+			<div class="keyboard-container"></div>
+		</div>
+	</body>
+	<script src="possible_words.js"></script>
+	<script src="allowed_words.js"></script>
+	<script src="solverapp.js"></script>
+	<script src="assistant.js"></script>
+</html>
