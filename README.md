@@ -1,5 +1,7 @@
 # wordle-rush
 
+Project made in collaporation with pavel-arkharov
+
 how to run:
 
 1. Go to VSCode (Visual Studio Code).
