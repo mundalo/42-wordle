@@ -9,6 +9,9 @@ Recreation of the 5-letter word game 'Wordle' with additional assistant, solver 
 
 You guess any five letter word and during the guesses, tiles will change colour to help players get the word. A grey letter means it isn't in the word. A yellow letter signals it is in the word but in the wrong position. A green letter means it's in the word and in the right place. You have 6 tries to get the word right to win the game.
 
+### WORDLE GAME
+It is our own recreation of the game. Each time you play it will select a new word for you to guess. There is no limit to play once a day like the original. In our game you can use both the assistant and autoplay button.
+
 ### ASSISTANT
 The assistant button can be pressed at any time and will give suggestions based on which words are still available.
 
