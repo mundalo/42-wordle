@@ -30,4 +30,4 @@ The solver is more sensitive and requires to enter the commands in the correct o
 To play the wordle game go to this link >> https://mundal1994.github.io/wordle/
 
 ## COLLABORATION
-Project made in collaporation with pavel-arkharov who took care of the front-end part of the project and I focused on the back-end.
+Project made in collaporation with Pavel Arkharov(https://github.com/pavel-arkharov) who took care of the front-end part of the project and I focused on the back-end.
