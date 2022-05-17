@@ -1,12 +1,9 @@
 # wordle-rush
 
-Project made in collaporation with pavel-arkharov
+ABOUT
 
-how to run:
+Recreation of the game 'Wordle' with assistant and autoplay function.
 
-1. Go to VSCode (Visual Studio Code).
-2. Go to extensions and install 'Live Server'.
-3. Press 'index.html' or another file from folder you wish to run.
-4. Open the 'Go Live' (usually button can be found at bottom right corner)
+To play the wordle game go to this link >> https://mundal1994.github.io/wordle/
 
-You should be good to play the game / use the solver function !
+Project made in collaporation with pavel-arkharov who took care of the front-end part of the project and I focused on the back-end.
