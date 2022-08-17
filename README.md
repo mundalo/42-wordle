@@ -24,7 +24,7 @@ The solver is more sensitive and requires to enter the commands in the correct o
   1. go to original wordle and input a word.
   2. go back to the solver and input the word you guessed but do NOT press the enter button.
   3. press the tiles to change the color of them. You need to make sure the solvers tiles and letters matches the original worlde. When it is identical you can press 'ENTER'.
-  4. press the assistant button. You should now see a list of words. Try and input one of those words into the original wordle (go to step 1. and repeat until the original wordle has been solved)
+  4. press the assistant button. You should now see a list of words. Try and input one of those words into the original wordle game (go to step 1. and repeat until the original wordle game has been solved)
 
 ## TO PLAY
 To play the wordle game go to this link >> https://mundal1994.github.io/wordle/
