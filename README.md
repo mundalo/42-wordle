@@ -27,7 +27,7 @@ The solver is more sensitive and requires to enter the commands in the correct o
   4. press the assistant button. You should now see a list of words. Try and input one of those words into the original wordle game (go to step 1. and repeat until the original wordle game has been solved)
 
 ## TO PLAY
-To play the wordle game go to this link >> https://mundal1994.github.io/wordle/
+To play the wordle game go to this link >> https://mundal1994.github.io/42-wordle/
 
 ## COLLABORATION
 Project made in collaporation with Pavel Arkharov(https://github.com/pavel-arkharov) who took care of the front-end part of the project and I focused on the back-end.
